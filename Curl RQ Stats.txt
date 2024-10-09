@@ -1,0 +1,1 @@
+curl --location 'https://9h0ovfjk8h.execute-api.us-east-2.amazonaws.com/dev/stats'
