@@ -16,7 +16,7 @@ El proyecto contiene la solución de los niveles 2 y 3 de la prueba tecnica que 
 
 
 ## ¿Cómo lo hago?
-Para probar el proyecto se debe:
+Para probar el proyecto  desde postman se debe:
 * Seleccionar pestaña Import
 * Copiar y pegar el curl de la petición que se requiera 
 * Enviar la petición
